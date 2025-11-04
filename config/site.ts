@@ -41,10 +41,10 @@ export const navItems = [
     title: "Top Cryptocurrencies",
     href: "/top-cryptocurrencies",
   },
-  {
-    title: "News",
-    href: "/news",
-  },
+  // {
+  //   title: "News",
+  //   href: "/news",
+  // },
 ]
 
 export const topCoins = [

@@ -4,8 +4,8 @@ export const siteConfig = {
   name: "CryptoPriceTracker",
   description:
     "Track cryptocurrency prices in real-time with accurate data, interactive charts, and analytical tools for investors.",
-  url: "https://cryptopricetracker.com",
-  ogImage: "https://cryptopricetracker.com/og.jpg",
+  url: "https://cryptotr.vercel.app",
+  ogImage: "https://cryptotr.vercel.app/og.jpg",
   links: {
     twitter: "https://twitter.com/cryptotracker",
     github: "https://github.com/cryptotracker",

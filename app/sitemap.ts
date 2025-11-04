@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next"
 import { coinGeckoAPI } from "@/lib/api/coinGecko"
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = "https://cryptopricetracker.com"
+  const baseUrl = "https://cryptotr.vercel.app"
 
   // Static pages
   const staticPages = ["", "/markets", "/trending", "/top-cryptocurrencies", "/converter", "/market-map"].map(
